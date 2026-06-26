@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="00test/00test.vcxproj" />
   <Project Path="01test/01test.vcxproj" />
+  <Project Path="02sum/02sum.vcxproj" />
 </Solution>
